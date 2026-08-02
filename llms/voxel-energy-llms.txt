@@ -1,0 +1,14 @@
+# Voxel Energy
+
+> Voxel Energy is a Y Combinator Winter 2026 company building energy-independent, off-grid data centers powered by on-site solar generation and second-life EV batteries over a DC microgrid architecture. Founded in 2025 by ex-Tesla engineers Casey Spencer (CEO, ex-Tesla Autopilot), Max Pfeiffer (CTO, founder of Maxwell Vehicles, Forbes 30 Under 30), and Evan Schmidt (COO), the San Francisco company delivers modular, prefabricated data center power systems that bypass multi-year utility interconnection queues, taking facilities from site selection to commissioning in months. Voxel Energy publishes no public API, SDK, or developer portal today.
+
+## Company
+
+- [Website](https://www.voxelenergy.com/): Voxel Energy — rapid deployment off-grid data centers
+- [Y Combinator Profile](https://www.ycombinator.com/companies/voxel-energy): YC W26 batch profile
+- [YC Launch](https://www.ycombinator.com/launches/PIb-voxel-energy-rapidly-deployed-data-centers-power-included): Launch YC — rapidly deployed data centers, power included
+- [LinkedIn](https://www.linkedin.com/company/voxel-energy/): Company LinkedIn page
+
+## APIs
+
+- None published. This profile is maintained by API Evangelist at https://github.com/api-evangelist/voxel-energy for future discovery.
