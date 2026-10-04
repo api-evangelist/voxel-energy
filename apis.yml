@@ -43,7 +43,7 @@ created: '2026-07-17'
 modified: '2026-07-21'
 tags:
 - Company
-- Data-Center
+- Data Center
 - Energy
 - Solar Power
 - Renewable Energy
@@ -61,6 +61,7 @@ tags_raw:
 - Hardware
 - Infrastructure
 - Artificial Intelligence
+- Data-Center
 apis: []
 common:
 - type: DomainSecurity
